@@ -1,3 +1,6 @@
+# MVC API using GO
+
+## USER REFERENCE  
 <table border="0">
   <tr>
     <th> Task </th>
@@ -42,5 +45,22 @@
     <td> {Status}
   </tr>
  </table>
+ <br>
      
+
+#### Sample of the table used for illustration
+<table border="0">
+  <tr>
+    <th> name </th>
+    <th> todo </th>
+  </tr>
+  <tr>
+    <td> Kailash </td>
+    <td> First operation </td>
+  </tr>
+  <tr>
+    <td> SK7</td>
+    <td> Second operation </td>
+  </tr>
+  
   
