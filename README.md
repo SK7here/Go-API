@@ -1,6 +1,7 @@
 # MVC API using GO
 
 ## USER REFERENCE  
+Run the ***Go_MVC_main.go*** file
 <table border="0">
   <tr>
     <th> Task </th>
