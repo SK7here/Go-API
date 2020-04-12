@@ -16,6 +16,7 @@ var con *sql.DB
 func Connect() *sql.DB{
 
 	//Opening the DB
+	//Replace your DB name here
 	db, err := sql.Open("mysql", "root:fanatic@tcp(localhost:3306)/sk7_db")
 	
 	//If there exists an error
